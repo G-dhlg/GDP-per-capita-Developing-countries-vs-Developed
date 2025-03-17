@@ -1,5 +1,8 @@
 # GNI-per-capita-Developing-countries-vs-Developed
 
+![World map](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fes%2Fimages%2Fgreat-and-funny-world-map%2F4361303&psig=AOvVaw2E6uO42bWYXsoVwBZmxtLw&ust=1742336041506000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDfpNiRkowDFQAAAAAdAAAAABAE)
+google stock image
+
 Description:
 
 The goal of this project is to create a model that predicts the GNI (Gross National Income) per capita in PPP (Purchasing Power Parity) in developing countries (Latin America) versus developed countries (Europe). 
